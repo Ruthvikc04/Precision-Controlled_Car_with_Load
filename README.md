@@ -37,7 +37,7 @@ This project involved designing and implementing a precision-controlled car capa
 
 ## **Screenshots**
 
-
+![WhatsApp Image 2025-01-16 at 23 01 02_6a0611ac](https://github.com/user-attachments/assets/3733783b-4767-4186-8147-81adcffc0186)
 
 ---
 
